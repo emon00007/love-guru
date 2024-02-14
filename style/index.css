@@ -1,0 +1,38 @@
+
+  .heading {
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    font-size: 3em;
+  }
+  #container {
+    width: 60%;
+    margin: auto;
+    text-align: center;
+  
+  }
+  #first-inp,
+  #secound-inp,
+  #btn-love {
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+  }
+  #btn-love:hover {
+    cursor: pointer;
+    border: 1px solid red;
+  }
+  .result {
+    border: 1px solid rgba(203, 203, 203, 0.445);
+    color: white;
+    box-shadow: 2px 2px 2px 2px rgba(58, 58, 58, 0.333);
+  }
+  /* #output{
+    background-color: red;
+  } */
+  .result{
+    background-color: red;
+    border-radius: 10px;
+  }
